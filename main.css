@@ -1,3 +1,21 @@
-p{
-	color: red
+body{
+	background-color: black;
+}
+
+.abc{
+	word-wrap: break-word;
+	font-size: 12px !important;
+}
+.main-div{
+	border: solid black 10px;
+	padding: 100px 100px;
+	margin: 0 auto;
+	background-color: yellow;
+	width: 70%;
+	height: 100%;
+}
+.navbar{
+	margin: 0 auto;
+	width: 70%;
+	color: yellow;
 }
